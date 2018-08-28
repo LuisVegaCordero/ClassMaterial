@@ -13,6 +13,8 @@ public class Agosto21 {
 		area = ourTriangle2.areaofTriangle();
 		System.out.println("The area of the second triangle is " +area);
 		
+		System.out.println("Test 1 for the commitments");
+		
 //		Triangle theTriangle1 = new Triangle(10.0, 10.0, 10.0);
 //		double area = theTriangle1.areaofTriangle();
 				
