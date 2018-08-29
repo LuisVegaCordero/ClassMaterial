@@ -15,6 +15,10 @@ public class Agosto21 {
 		
 		System.out.println("Test 1 for the commitments");
 		
+		double sidesOfTriangle = ourTriangle.sumOfSides();
+		
+		System.out.println("The sum of the sides of this triangle is " +sidesOfTriangle);
+		
 //		Triangle theTriangle1 = new Triangle(10.0, 10.0, 10.0);
 //		double area = theTriangle1.areaofTriangle();
 				

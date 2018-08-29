@@ -17,4 +17,9 @@ public class Triangle {
 		return area;
 	}
 	
+	public double sumOfSides() {
+		double sides = side1 + side2 + side3;
+		return sides;
+	}
+	
 }
